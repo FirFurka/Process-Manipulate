@@ -8,7 +8,7 @@ class ProgrammManipulate
     {
         //GetAllProcesses();
         //FindInProcesses();
-        KillProcesses();
+        //KillProcesses();
 
         Console.ReadKey();
     }
